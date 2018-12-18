@@ -1,0 +1,35 @@
+.ic-stars, .ic-play-button, .ic-career, .ic-savings, .ic-success, 
+.ic-like, .ic-graduation-student-black-cap, .ic-done, .ic-contract, .ic-employment, 
+.ic-three-buildings, .ic-ascendant-bars-graphic, .ic-hand, .ic-light-bulb, .ic-megaphone, 
+.ic-pair-of-bills, .ic-speedometer, .ic-superhero, .ic-icons8-sent-filled-50, .ic-gift, 
+.ic-pay, .ic-shield, .ic-phone-receiver, .ic-search, .ic-web-log-in, 
+.ic-phone-receiver-hov, .ic-close
+{ display: inline-block; background: url('../img/sprite.png') no-repeat; overflow: hidden; text-indent: -9999px; text-align: left; }
+ 
+.ic-stars { background-position: -0px -0px; width: 122px; height: 17px; }
+.ic-play-button { background-position: -0px -17px; width: 69px; height: 69px; }
+.ic-career { background-position: -69px -17px; width: 38px; height: 42px; }
+.ic-savings { background-position: -69px -59px; width: 38px; height: 38px; }
+.ic-success { background-position: -0px -86px; width: 38px; height: 38px; }
+.ic-like { background-position: -38px -97px; width: 37px; height: 42px; }
+.ic-graduation-student-black-cap { background-position: -75px -97px; width: 36px; height: 22px; }
+.ic-done { background-position: -75px -119px; width: 35px; height: 35px; }
+.ic-contract { background-position: -0px -124px; width: 33px; height: 28px; }
+.ic-employment { background-position: -33px -139px; width: 33px; height: 24px; }
+.ic-three-buildings { background-position: -0px -152px; width: 33px; height: 26px; }
+.ic-ascendant-bars-graphic { background-position: -66px -154px; width: 32px; height: 32px; }
+.ic-hand { background-position: -33px -163px; width: 32px; height: 30px; }
+.ic-light-bulb { background-position: -0px -178px; width: 32px; height: 37px; }
+.ic-megaphone { background-position: -65px -186px; width: 32px; height: 37px; }
+.ic-pair-of-bills { background-position: -32px -193px; width: 32px; height: 31px; }
+.ic-speedometer { background-position: -0px -215px; width: 32px; height: 32px; }
+.ic-superhero { background-position: -64px -223px; width: 32px; height: 42px; }
+.ic-icons8-sent-filled-50 { background-position: -98px -154px; width: 22px; height: 22px; }
+.ic-gift { background-position: -98px -176px; width: 17px; height: 19px; }
+.ic-pay { background-position: -97px -195px; width: 17px; height: 23px; }
+.ic-shield { background-position: -97px -218px; width: 17px; height: 21px; }
+.ic-phone-receiver { background-position: -32px -224px; width: 16px; height: 16px; }
+.ic-search { background-position: -48px -224px; width: 16px; height: 16px; }
+.ic-web-log-in { background-position: -96px -239px; width: 16px; height: 15px; }
+.ic-phone-receiver-hov { background-position: -107px -17px; width: 15px; height: 15px; }
+.ic-close { background-position: -107px -32px; width: 13px; height: 13px; }
